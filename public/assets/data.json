@@ -1,0 +1,188 @@
+{
+    "videoInfo" : [
+        {
+            "id" : 1,
+            "title" : "Queen - Radio Ga Ga (Live Aid 1985)",
+            "thumbnail" : "assets/thumbnails/queen.png",
+            "link" : "http://localhost:8000/Queen/480p/m3u8/yt5s.m3u8",
+            "uploader" : "The Queen",
+            "description" : "Queen performing at Live Aid in front of 72,000 people in Wembley Stadium London on the 13th July, 1985. The event was organised by Sir Bob Geldof and Midge Ure to raise funds for the Ethiopian famine disaster. Broadcast across the world via one of the largest satellite link-ups of all time, the concerts were seen by around 40% of the global population. Remember to subscribe to stay up to date with all new releases in the channel.",
+            "date" : "September 14, 2021"
+        }, 
+        {
+             "id" : 2,
+            "title" : "The Beatles - Don't Let Me Down",
+            "thumbnail" : "assets/thumbnails/beatles.png",
+            "link" : "http://localhost:8000/The Beatles/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "The Beatles",
+            "description" : "Written by John as an expression of his love for Yoko Ono, the song is heartfelt and passionate. As John told Rolling Stone magazine in 1970, When it gets down to it, when you’re drowning, you don’t say, ‘I would be incredibly pleased if someone would have the foresight to notice me drowning and come and help me,’ you just scream. During filming on the roof of Apple, two days after the recording of the track, the band played ‘Don’t Let Me Down’ right after doing two versions of 'Get Back’ and it led straight into 'I’ve Got A Feeling’. Michael Lindsay-Hogg was once again directing a Beatles’ shoot. He and Paul met regularly at the tail end of 1968, while Hogg was directing The Rolling Stones Rock and Roll Circus, to discuss the filming of The Beatles’ session in January. By the time that fateful Thursday came around, the penultimate day of January would be the last time The Beatles ever played together in front of any kind of audience.",
+            "date" : "September 14, 2021"
+        },
+        {
+            "id" : 3,
+            "title" : "David Bowie - Blackstar (Video)",
+            "thumbnail" : "assets/thumbnails/bowie.png",
+            "link" : "http://localhost:8000/David Bowie/1080p/m3u8/David_Bowie_1080.m3u8",
+            "uploader" : "David Bowie",
+            "description" : "Blackstar (stylised as ★) is the twenty-fifth and final studio album by English musician David Bowie. It was released worldwide on 8 January 2016, coinciding with Bowie's 69th birthday, through his ISO label, Columbia Records and Sony Music. The album was primarily recorded in secret between the Magic Shop and Human Worldwide Studios in New York City with Bowie's longtime co-producer Tony Visconti and a group of local jazz musicians: saxophonist Donny McCaslin, pianist Jason Lindner, bassist Tim Lefebvre and drummer Mark Guiliana; guitarist Ben Monder joined the ensemble for the final sessions, while James Murphy of LCD Soundsystem contributed percussion. The album is more experimental than its predecessor The Next Day, combining art rock with different styles of jazz.",
+            "date" : "September 10, 2021"
+
+        },
+        {
+            "id" : 4,
+            "title" : "Adele - Rolling in the Deep (Official Music Video)",
+            "thumbnail" : "assets/thumbnails/adele.png",
+            "link" : "http://localhost:8000/Adele/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "Adele",
+            "description" : "Rolling in the Deep is a song recorded by English singer-songwriter Adele for her second studio album, 21. It is the lead single and opening track on the album. The song was written by Adele and Paul Epworth. The singer herself describes it as a dark blues-y gospel disco tune. In 2011 it was reportedly the biggest crossover hit in the United States since 1985, Rolling in the Deep gained radio airplay from many different radio formats.[2] It was first released on 29 November 2010 as the lead single from 21 in digital download format. The lyrics describe the emotions of a scorned lover.",
+            "date" : "September 27, 2021"
+        },
+        {
+            "id" : 5, 
+            "title" : "BTS 'Dynamite' Official MV ",
+            "thumbnail" : "assets/thumbnails/BTS.png",
+            "link" : "http://localhost:8000/BTS/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "HYBE LABELS",
+            "description" : "Dyanmite is a song recorded by South Korean boy band BTS, released on August 21, 2020, through Big Hit Entertainment and Sony Music Entertainment. It is the band's first song fully recorded in English. The song, written by David Stewart and Jessica Agombar and produced by Stewart, is an upbeat disco-pop song with elements of funk, soul, and bubblegum pop, and takes influence from 1970s music—it features snapping handclaps, echoing synths, and celebratory horns.",
+            "date" : "September 28, 2021"
+        },
+        {
+            "id" : 6,
+            "title" : "Avicii - The Nights",
+            "thumbnail" : "assets/thumbnails/avicii.png",
+            "link" : "http://localhost:8000/Avicii/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Avicii",
+            "description" : "The Nights is a song by Swedish DJ and record producer Avicii and singer/songwriter Nicholas Furlong. On 1 December 2014, it was released as a digital download by PRMD Music and Universal Island on Avicii's The Days / Nights EP, then on 11 January 2015 in the United Kingdom. The song peaked at number six on the UK Singles Chart and number one on the UK Dance Chart. On 23 January 2015, Avicii released The Nights (Avicii by Avicii), his own remix of the song.The song appears on the UK version of Avicii's second studio album Stories (2015). The song was featured as a part of the football game by EA Sports, FIFA 15. In 2014, SportsCenter on ESPN used The Nights as a song to round out the year in sports. It was also used as the Carolina Hurricanes’ goal song from 2015 to 2018.",
+            "date" : "September 1, 2021"
+        },
+        {
+            "id" : 7,
+            "title" : "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+            "thumbnail" : "assets/thumbnails/postmalone.png",
+            "link" : "http://localhost:8000/Post Malone/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Post Malone",
+            "description" : "Sunflower (alternatively titled Sunflower (Spider-Man: Into the Spider-Verse)) is a song performed by American rappers and singers Post Malone and Swae Lee. It was released as a single from the soundtrack to the 2018 animated film Spider-Man: Into the Spider-Verse,and is included on Post Malone's third studio album Hollywood's Bleeding (2019). The single was released on October 19, 2018. It became Malone's third and Lee's first song as a soloist to top the US Billboard Hot 100 songs chart. The song ranked in the top ten of the chart for 33 weeks, at the time sharing the record for the most such weeks with Girls Like You by Maroon 5 featuring Cardi B and Shape of You by Ed Sheeran (Post Malone would later break this record with his 2019 single Circles). Sunflower also reached number one in Australia, Canada, Malaysia, and New Zealand, as well as the top ten in twelve additional countries. It is certified Diamond in the US and Canada.",
+            "date" : "September 14, 2021"
+        }, 
+        {
+            "id" : 8,
+            "title" : "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+            "thumbnail" : "assets/thumbnails/wiz.png",
+            "link" : "http://localhost:8000/Wiz/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Wiz Khalifa",
+            "description" : "See You Again is a song by American rapper Wiz Khalifa, featuring American singer Charlie Puth. It was commissioned for the soundtrack of the 2015 film Furious 7 as a tribute to actor Paul Walker, who died in a single-vehicle accident on November 30, 2013. Later on, the song was included as a bonus track on the international release of Puth's debut album, Nine Track Mind. The artists co-wrote the song with its co-producers, DJ Frank E and Andrew Cedar, with additional production from Puth and mixing provided by Manny Marroquin. See You Again was released on March 10, 2015, as the soundtrack's lead single in the United States.",
+            "date" : "September 10, 2021"
+
+        },
+        {
+            "id" : 9,
+            "title" : "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+            "thumbnail" : "assets/thumbnails/justin.png",
+            "link" : "http://localhost:8000/Justin Bieber/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Justin Bieber",
+            "description" : "Stay is a song by Australian rapper and singer the Kid Laroi and Canadian singer Justin Bieber. It was released through Grade A Productions and Columbia Records on 9 July 2021, as the lead single from Laroi's reloaded mixtape, F*ck Love 3: Over You. The song was produced by Cashmere Cat, Charlie Puth, Omer Fedi, and Blake Slatkin. It was written by the two artists and the producers, alongside FnZ members Finatik and Zac, and Haan. The song marks the second collaboration between Laroi and Bieber, following Bieber's song, Unstable.",
+            "date" : "September 27, 2021"
+        },
+        {
+            "id" : 10, 
+            "title" : "Coldplay - Viva La Vida (Live In São Paulo)",
+            "thumbnail" : "assets/thumbnails/coldplay.png",
+            "link" : "http://localhost:8000/Coldplay/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Coldplay",
+            "description" : "Coldplay - Viva La Vida (Live in São Paulo) is taken from the Live In São Paulo concert filmed on 7 and 8 November 2017, part of the Butterfly Package, which also includes the Live In Buenos Aires album and the A Head Full Of Dreams documentary. ",
+            "date" : "September 28, 2021"
+        },
+        {
+            "id" : 11,
+            "title" : "Queen - Radio Ga Ga (Live Aid 1985)",
+            "thumbnail" : "assets/thumbnails/queen.png",
+            "link" : "http://localhost:8000/Queen/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "The Queen",
+            "description" : "Queen performing at Live Aid in front of 72,000 people in Wembley Stadium London on the 13th July, 1985. The event was organised by Sir Bob Geldof and Midge Ure to raise funds for the Ethiopian famine disaster. Broadcast across the world via one of the largest satellite link-ups of all time, the concerts were seen by around 40% of the global population. Remember to subscribe to stay up to date with all new releases in the channel.",
+            "date" : "September 14, 2021"
+        }, 
+        {
+             "id" : 12,
+            "title" : "The Beatles - Don't Let Me Down",
+            "thumbnail" : "assets/thumbnails/beatles.png",
+            "link" : "http://localhost:8000/The Beatles/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "The Beatles",
+            "description" : "Written by John as an expression of his love for Yoko Ono, the song is heartfelt and passionate. As John told Rolling Stone magazine in 1970, When it gets down to it, when you’re drowning, you don’t say, ‘I would be incredibly pleased if someone would have the foresight to notice me drowning and come and help me,’ you just scream. During filming on the roof of Apple, two days after the recording of the track, the band played ‘Don’t Let Me Down’ right after doing two versions of 'Get Back’ and it led straight into 'I’ve Got A Feeling’. Michael Lindsay-Hogg was once again directing a Beatles’ shoot. He and Paul met regularly at the tail end of 1968, while Hogg was directing The Rolling Stones Rock and Roll Circus, to discuss the filming of The Beatles’ session in January. By the time that fateful Thursday came around, the penultimate day of January would be the last time The Beatles ever played together in front of any kind of audience.",
+            "date" : "September 14, 2021"
+        },
+        {
+            "id" : 13,
+            "title" : "David Bowie - Blackstar (Video)",
+            "thumbnail" : "assets/thumbnails/bowie.png",
+            "link" : "http://localhost:8000/David Bowie/1080p/m3u8/David_Bowie_1080.m3u8",
+            "uploader" : "David Bowie",
+            "description" : "Blackstar (stylised as ★) is the twenty-fifth and final studio album by English musician David Bowie. It was released worldwide on 8 January 2016, coinciding with Bowie's 69th birthday, through his ISO label, Columbia Records and Sony Music. The album was primarily recorded in secret between the Magic Shop and Human Worldwide Studios in New York City with Bowie's longtime co-producer Tony Visconti and a group of local jazz musicians: saxophonist Donny McCaslin, pianist Jason Lindner, bassist Tim Lefebvre and drummer Mark Guiliana; guitarist Ben Monder joined the ensemble for the final sessions, while James Murphy of LCD Soundsystem contributed percussion. The album is more experimental than its predecessor The Next Day, combining art rock with different styles of jazz.",
+            "date" : "September 10, 2021"
+
+        },
+        {
+            "id" : 14,
+            "title" : "Adele - Rolling in the Deep (Official Music Video)",
+            "thumbnail" : "assets/thumbnails/adele.png",
+            "link" : "http://localhost:8000/Adele/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "Adele",
+            "description" : "Rolling in the Deep is a song recorded by English singer-songwriter Adele for her second studio album, 21. It is the lead single and opening track on the album. The song was written by Adele and Paul Epworth. The singer herself describes it as a dark blues-y gospel disco tune. In 2011 it was reportedly the biggest crossover hit in the United States since 1985, Rolling in the Deep gained radio airplay from many different radio formats.[2] It was first released on 29 November 2010 as the lead single from 21 in digital download format. The lyrics describe the emotions of a scorned lover.",
+            "date" : "September 27, 2021"
+        },
+        {
+            "id" : 15, 
+            "title" : "BTS 'Dynamite' Official MV ",
+            "thumbnail" : "assets/thumbnails/BTS.png",
+            "link" : "http://localhost:8000/BTS/1080p/m3u8/yt5s.m3u8",
+            "uploader" : "HYBE LABELS",
+            "description" : "Dyanmite is a song recorded by South Korean boy band BTS, released on August 21, 2020, through Big Hit Entertainment and Sony Music Entertainment. It is the band's first song fully recorded in English. The song, written by David Stewart and Jessica Agombar and produced by Stewart, is an upbeat disco-pop song with elements of funk, soul, and bubblegum pop, and takes influence from 1970s music—it features snapping handclaps, echoing synths, and celebratory horns.",
+            "date" : "September 28, 2021"
+        },
+        {
+            "id" : 16,
+            "title" : "Avicii - The Nights",
+            "thumbnail" : "assets/thumbnails/avicii.png",
+            "link" : "http://localhost:8000/Avicii/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Avicii",
+            "description" : "The Nights is a song by Swedish DJ and record producer Avicii and singer/songwriter Nicholas Furlong. On 1 December 2014, it was released as a digital download by PRMD Music and Universal Island on Avicii's The Days / Nights EP, then on 11 January 2015 in the United Kingdom. The song peaked at number six on the UK Singles Chart and number one on the UK Dance Chart. On 23 January 2015, Avicii released The Nights (Avicii by Avicii), his own remix of the song.The song appears on the UK version of Avicii's second studio album Stories (2015). The song was featured as a part of the football game by EA Sports, FIFA 15. In 2014, SportsCenter on ESPN used The Nights as a song to round out the year in sports. It was also used as the Carolina Hurricanes’ goal song from 2015 to 2018.",
+            "date" : "September 1, 2021"
+        },
+        {
+            "id" : 17,
+            "title" : "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+            "thumbnail" : "assets/thumbnails/postmalone.png",
+            "link" : "http://localhost:8000/Post Malone/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Post Malone",
+            "description" : "Sunflower (alternatively titled Sunflower (Spider-Man: Into the Spider-Verse)) is a song performed by American rappers and singers Post Malone and Swae Lee. It was released as a single from the soundtrack to the 2018 animated film Spider-Man: Into the Spider-Verse,and is included on Post Malone's third studio album Hollywood's Bleeding (2019). The single was released on October 19, 2018. It became Malone's third and Lee's first song as a soloist to top the US Billboard Hot 100 songs chart. The song ranked in the top ten of the chart for 33 weeks, at the time sharing the record for the most such weeks with Girls Like You by Maroon 5 featuring Cardi B and Shape of You by Ed Sheeran (Post Malone would later break this record with his 2019 single Circles). Sunflower also reached number one in Australia, Canada, Malaysia, and New Zealand, as well as the top ten in twelve additional countries. It is certified Diamond in the US and Canada.",
+            "date" : "September 14, 2021"
+        }, 
+        {
+            "id" : 18,
+            "title" : "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+            "thumbnail" : "assets/thumbnails/wiz.png",
+            "link" : "http://localhost:8000/Wiz/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Wiz Khalifa",
+            "description" : "See You Again is a song by American rapper Wiz Khalifa, featuring American singer Charlie Puth. It was commissioned for the soundtrack of the 2015 film Furious 7 as a tribute to actor Paul Walker, who died in a single-vehicle accident on November 30, 2013. Later on, the song was included as a bonus track on the international release of Puth's debut album, Nine Track Mind. The artists co-wrote the song with its co-producers, DJ Frank E and Andrew Cedar, with additional production from Puth and mixing provided by Manny Marroquin. See You Again was released on March 10, 2015, as the soundtrack's lead single in the United States.",
+            "date" : "September 10, 2021"
+
+        },
+        {
+            "id" : 19,
+            "title" : "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+            "thumbnail" : "assets/thumbnails/justin.png",
+            "link" : "http://localhost:8000/Justin Bieber/1080p/m3u8/targetfilename.m3u8",
+            "uploader" : "Justin Bieber",
+            "description" : "Stay is a song by Australian rapper and singer the Kid Laroi and Canadian singer Justin Bieber. It was released through Grade A Productions and Columbia Records on 9 July 2021, as the lead single from Laroi's reloaded mixtape, F*ck Love 3: Over You. The song was produced by Cashmere Cat, Charlie Puth, Omer Fedi, and Blake Slatkin. It was written by the two artists and the producers, alongside FnZ members Finatik and Zac, and Haan. The song marks the second collaboration between Laroi and Bieber, following Bieber's song, Unstable.",
+            "date" : "September 27, 2021"
+        },
+        {
+            "id" : 20, 
+            "title" : "Coldplay - Viva La Vida (Live In São Paulo)",
+            "thumbnail" : "assets/thumbnails/coldplay.png",
+            "link" : "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+            "uploader" : "Coldplay",
+            "description" : "Coldplay - Viva La Vida (Live in São Paulo) is taken from the Live In São Paulo concert filmed on 7 and 8 November 2017, part of the Butterfly Package, which also includes the Live In Buenos Aires album and the A Head Full Of Dreams documentary. ",
+            "date" : "September 28, 2021"
+        }
+    ]
+}
